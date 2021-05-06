@@ -1,0 +1,10 @@
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Console.exe.config
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Console.exe
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Console.pdb
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Repository.dll
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Repository.pdb
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.csprojAssemblyReference.cache
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.csproj.CoreCompileInputs.cache
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.csproj.CopyComplete
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.exe
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.pdb

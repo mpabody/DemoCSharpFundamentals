@@ -1,0 +1,16 @@
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\07_StreamingContent_Tests.dll
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\07_StreamingContent_Tests.pdb
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\07_StreamingContent_Repository.dll
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\07_StreamingContent_Repository.pdb
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.csprojAssemblyReference.cache
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.csproj.CoreCompileInputs.cache
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.csproj.CopyComplete
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.dll
+D:\Eleven Fifty Academy\In class demos\SD86_CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.pdb
